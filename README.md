@@ -20,7 +20,7 @@ One of my first feature complete games created.
 
 **Source code**: [ggame](/ggame/code)
 
-**Executable (DOS)**: [ggame.exe](/ggame/release/ggame.exe)
+**Executable (DOS)**: [ggame.exe](/ggame/release/GGAME.exe)
 
 ### Instructions
 
