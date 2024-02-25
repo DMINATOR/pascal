@@ -2,7 +2,7 @@
 
 This project was created to convert assest from Pascal to modern standard and view them
 
-**Executable (Windows)**: [ConvertedToNet.exe](/release/ConvertedToNet.exe)
+**Executable (Windows)**: [ConvertedToNet.exe](./release/ConvertedToNet.exe)
 
 ## trk file format
 
