@@ -6,9 +6,11 @@ My first projects made in pascal (borland/turbo/delphi)
     - [Details](#details)
     - [Instructions](#instructions)
     - [Screenshots](#screenshots)
+  - [Seawar](#seawar)
   - [Quad](#quad)
     - [Details](#details)
     - [Instructions](#instructions)
+    - [Screenshots](#screenshots)
 <!--/TOC-->
 
 ## GGAME
@@ -60,6 +62,43 @@ any damage.
 ![wingame](./ggame/screenshots/wingame.png)
 
 ![winsummary](./ggame/screenshots/winsummary.png)
+
+## Seawar
+
+A game based on a common sea war game.
+
+### Details
+
+**Created**: 2000
+
+**Language**: Pascal
+
+**Features**:
+- 16 colors
+- 640x480 screen resolution
+- ship position validation
+
+**Source code**: [seawar](/seawar/code)
+
+**Executable (DOS)**: [ggame.exe](/seawar/release/seawar.exe)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- [Left] and [Right] to move the ship left or right
+- [Up] and [Down] To move the ship up and down
+- [s] to rate a ship
+
+### Screenshots
+
+![screen1](./seawar/screenshots/screen1.png)
+
+![screen2](./seawar/screenshots/screen2.png)
+
+![screen3](./seawar/screenshots/screen3.png)
 
 ## Quad
 
