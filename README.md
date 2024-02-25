@@ -51,7 +51,10 @@ One of my first feature complete games created.
 - 640x480 screen resolution
 - save and loading
 - sound effects via PC speaker!
-- all the graphics made by yours truly with [Paintman3](#paintman3)
+- all the graphics made by yours truly with:
+    - Pixel based [Paintman3](#paintman3)
+    - Vector based for level maps with [Paintman2](#paintman2)
+- 20 levels
 
 **Source code**: [ggame](/ggame/code)
 
@@ -85,6 +88,33 @@ any damage.
 ![wingame](./ggame/screenshots/wingame.png)
 
 ![winsummary](./ggame/screenshots/winsummary.png)
+
+### Other notes
+
+Levels are defined in `INTRO.DAT`
+
+```text
+level1
+level2
+level3
+level4
+level5
+level6
+level7
+level8
+level9
+level10
+level11
+level12
+level13
+level14
+level15
+level16
+level17
+level18
+level19
+level20
+```
 
 ## FIRE
 
