@@ -6,6 +6,10 @@ My first projects made in pascal (borland/turbo/delphi)
     - [Details](#details)
     - [Instructions](#instructions)
     - [Screenshots](#screenshots)
+  - [FIRE](#fire)
+    - [Details](#details)
+    - [Instructions](#instructions)
+    - [Screenshots](#screenshots)
   - [Seawar](#seawar)
     - [Details](#details)
     - [Instructions](#instructions)
@@ -65,6 +69,40 @@ any damage.
 ![wingame](./ggame/screenshots/wingame.png)
 
 ![winsummary](./ggame/screenshots/winsummary.png)
+
+## FIRE
+
+Another game where the goal is to catch people that are jumping from the roof of the building.
+
+### Details
+
+**Created**: 2000
+
+**Language**: Pascal
+
+**Features**:
+- 16 colors
+- 640x480 screen resolution
+- animations
+- all the graphics made by yours truly.
+
+**Source code**: [fire](/fire/code)
+
+**Executable (DOS)**: [FIRE.EXE](/fire/release/FIRE.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- [Left] and [Right] to move the platform
+- 
+### Screenshots
+
+![screen1](./fire/screenshots/screen1.png)
+
+![screen2](./fire/screenshots/screen2.png)
 
 ## Seawar
 
