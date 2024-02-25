@@ -217,7 +217,6 @@ Memory viewer for available memory range
 
 ![screen1](./memview/screenshots/screen1.png)
 
-
 ## Paintman2
 
 Custom made application to draw shapes via vector graphics
@@ -259,6 +258,49 @@ Custom made application to draw shapes via vector graphics
 ![screen4](./paintman2/screenshots/screen4.png)
 
 ![screen5](./paintman2/screenshots/screen5.png)
+
+
+## Paintman3
+
+Second iteration much more feature rich graphical image editor.
+
+### Details
+
+**Created**: 2001
+
+**Language**: Pascal
+
+**Features**:
+- 640x480
+- 16 colors
+- Base color or fill color
+- Loading and saving images
+- Different shapes
+- Options and settings
+- Undo or redo
+
+**Source code**: [paintman3](/paintman3/code)
+
+**Executable (DOS)**: [Paintman3.EXE](/paintman3/release/Paintman3.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- Use mouse to select shapes/color/fill type on the top ribbon panel
+- Use (blue/red) buttons to save or load a file
+
+### Screenshots
+
+![screen1](./paintman3/screenshots/screen1.png)
+
+![screen2](./paintman3/screenshots/screen2.png)
+
+![screen3](./paintman3/screenshots/screen3.png)
+
+![screen4](./paintman3/screenshots/screen4.png)
 
 ## Quad
 
