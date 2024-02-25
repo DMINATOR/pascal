@@ -58,63 +58,63 @@ namespace ConvertedToNet
             var value = streamReader.Read();
             if (value == 'a')
             {
-                return Color.Black;
+                return CGAColors.Black;
             }
             else if (value == 'b')
             {
-                return Color.Blue;
+                return CGAColors.Blue;
             }
             else if (value == 'c')
             {
-                return Color.Green;
+                return CGAColors.Green;
             }
             else if (value == 'd')
             {
-                return Color.Cyan;
+                return CGAColors.Cyan;
             }
             else if (value == 'e')
             {
-                return Color.Red;
+                return CGAColors.Red;
             }
             else if (value == 'f')
             {
-                return Color.Magenta;
+                return CGAColors.Magenta;
             }
             else if (value == 'g')
             {
-                return Color.Brown;
+                return CGAColors.Brown;
             }
             else if (value == 'h')
             {
-                return Color.White;
+                return CGAColors.LightGray;
             }
             else if (value == 'i')
             {
-                return Color.FromArgb(128, 128, 128); // 1000 Bright Black
+                return CGAColors.DarkGray;
             }
             else if (value == 'j')
             {
-                return Color.FromArgb(0, 0, 128); // 1001 Bright Blue
+                return CGAColors.LightBlue;
             }
             else if (value == 'k')
             {
-                return Color.FromArgb(0, 128, 0); // 1010 Bright Green
+                return CGAColors.LightGreen;
             }
             else if (value == 'l')
             {
-                return Color.FromArgb(128, 0, 0); // ??
+                return CGAColors.LightCyan;
             }
             else if (value == 'm')
             {
-                return Color.FromArgb(128, 0, 0); // ??
+                return CGAColors.LightRed;
             }
             else if (value == 'n')
             {
-                return Color.FromArgb(128, 0, 0); // ??
+                return CGAColors.LightMagenta;
             }
             else if (value == 'o')
             {
-                return Color.FromArgb(128, 0, 0); // ??
+                return CGAColors.Yellow;
             }
             else if (value == 'p')
             {
@@ -124,6 +124,27 @@ namespace ConvertedToNet
             {
                 throw new NotSupportedException($"Not supported type - {value}");
             }
+        }
+
+        // Generated from ChatGPT:
+        public static class CGAColors
+        {
+            public static Color Black { get; } = Color.FromArgb(0, 0, 0);
+            public static Color Blue { get; } = Color.FromArgb(0, 0, 170);
+            public static Color Green { get; } = Color.FromArgb(0, 170, 0);
+            public static Color Cyan { get; } = Color.FromArgb(0, 170, 170);
+            public static Color Red { get; } = Color.FromArgb(170, 0, 0);
+            public static Color Magenta { get; } = Color.FromArgb(170, 0, 170);
+            public static Color Brown { get; } = Color.FromArgb(170, 85, 0);
+            public static Color LightGray { get; } = Color.FromArgb(170, 170, 170);
+            public static Color DarkGray { get; } = Color.FromArgb(85, 85, 85);
+            public static Color LightBlue { get; } = Color.FromArgb(85, 85, 255);
+            public static Color LightGreen { get; } = Color.FromArgb(85, 255, 85);
+            public static Color LightCyan { get; } = Color.FromArgb(85, 255, 255);
+            public static Color LightRed { get; } = Color.FromArgb(255, 85, 85);
+            public static Color LightMagenta { get; } = Color.FromArgb(255, 85, 255);
+            public static Color Yellow { get; } = Color.FromArgb(255, 255, 85);
+            public static Color White { get; } = Color.FromArgb(255, 255, 255);
         }
     }
 }
