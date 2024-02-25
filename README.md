@@ -1,6 +1,16 @@
 # pascal
 My first projects made in pascal (borland/turbo/delphi)
 
+<!--TOC-->
+  - [GGAME](#ggame)
+    - [Details](#details)
+    - [Instructions](#instructions)
+    - [Screenshots](#screenshots)
+  - [Quad](#quad)
+    - [Details](#details)
+    - [Instructions](#instructions)
+<!--/TOC-->
+
 ## GGAME
 
 One of my first feature complete games created.
@@ -50,3 +60,32 @@ any damage.
 ![wingame](./ggame/screenshots/wingame.png)
 
 ![winsummary](./ggame/screenshots/winsummary.png)
+
+## Quad
+
+[Quadratic function calculator](https://en.wikipedia.org/wiki/Quadratic_function)
+
+### Details
+
+**Created**: 2000
+
+**Language**: Pascal
+
+**Features**:
+- Text based
+- Correctness validations
+
+**Source code**: [quad](/quad/code)
+
+**Executable (DOS)**: [quad.exe](/quad/release/QUAD.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+### Screenshots
+
+![failure](./quad/screenshots/results1.png)
+
+![valid](./quad/screenshots/results2.png)
+
