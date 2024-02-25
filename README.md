@@ -317,6 +317,12 @@ Second iteration much more feature rich graphical image editor.
 
 **Executable (DOS)**: [Paintman3.EXE](/paintman3/release/Paintman3.EXE)
 
+## Conversion
+
+To view files `.trk` files, the conversion app was created, see [ConvertedToNet](/conversion/ConvertedToNet/README.md)
+
+![Loaded TRK](./conversion/ConvertedToNet/screenshots/loaded_trk.png)
+
 ### Instructions
 
 **Installation**: [Run it via DosBox](https://www.dosbox.com/)
