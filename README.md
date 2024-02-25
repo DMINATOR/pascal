@@ -10,6 +10,10 @@ My first projects made in pascal (borland/turbo/delphi)
     - [Details](#details)
     - [Instructions](#instructions)
     - [Screenshots](#screenshots)
+  - [STRIKE](#strike)
+    - [Details](#details)
+    - [Instructions](#instructions)
+    - [Screenshots](#screenshots)
   - [Seawar](#seawar)
     - [Details](#details)
     - [Instructions](#instructions)
@@ -103,6 +107,40 @@ Another game where the goal is to catch people that are jumping from the roof of
 ![screen1](./fire/screenshots/screen1.png)
 
 ![screen2](./fire/screenshots/screen2.png)
+
+## STRIKE
+
+A very simple pong game, ither one or two players.
+
+### Details
+
+**Created**: 2000
+
+**Language**: Pascal
+
+**Features**:
+- 16 colors
+- 640x480 screen resolution
+- color graphics
+- all the graphics made by yours truly.
+
+**Source code**: [strike](/strike/code)
+
+**Executable (DOS)**: [STRIKE.EXE](/strike/release/STRIKE.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- [Left] and [Right] to move the platform
+- 
+### Screenshots
+
+![main](./strike/screenshots/main.png)
+
+![game](./strike/screenshots/game.png)
 
 ## Seawar
 
