@@ -213,6 +213,49 @@ Memory viewer for available memory range
 
 ![screen1](./memview/screenshots/screen1.png)
 
+
+## Paintman2
+
+Custom made application to draw shapes via vector graphics
+
+### Details
+
+**Created**: 2001
+
+**Language**: Pascal
+
+**Features**:
+- 640x480
+- 16 colors
+- Vector graphics, different shapes line styles and fill patterns
+- Saving and loading of files
+
+**Source code**: [paintman2](/paintman2/code)
+
+**Executable (DOS)**: [PAINTMAN2.EXE](/paintman2/release/PAINTMAN2.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- On loading, define a name of the file to save to
+- Use mouse to select shapes/color/fill type on the top ribbon panel
+- Use (blue/red) buttons to save or load a file
+
+### Screenshots
+
+![screen1](./paintman2/screenshots/screen1.png)
+
+![screen2](./paintman2/screenshots/screen2.png)
+
+![screen3](./paintman2/screenshots/screen3.png)
+
+![screen4](./paintman2/screenshots/screen4.png)
+
+![screen5](./paintman2/screenshots/screen5.png)
+
 ## Quad
 
 [Quadratic function calculator](https://en.wikipedia.org/wiki/Quadratic_function)
