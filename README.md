@@ -18,6 +18,10 @@ My first projects made in pascal (borland/turbo/delphi)
     - [Details](#details)
     - [Instructions](#instructions)
     - [Screenshots](#screenshots)
+  - [Memview](#memview)
+    - [Details](#details)
+    - [Instructions](#instructions)
+    - [Screenshots](#screenshots)
   - [Quad](#quad)
     - [Details](#details)
     - [Instructions](#instructions)
@@ -101,7 +105,7 @@ Another game where the goal is to catch people that are jumping from the roof of
 **Controls**:
 
 - [Left] and [Right] to move the platform
-- 
+
 ### Screenshots
 
 ![screen1](./fire/screenshots/screen1.png)
@@ -135,7 +139,7 @@ A very simple pong game, ither one or two players.
 **Controls**:
 
 - [Left] and [Right] to move the platform
-- 
+
 ### Screenshots
 
 ![main](./strike/screenshots/main.png)
@@ -178,6 +182,36 @@ A game based on a common sea war game.
 ![screen2](./seawar/screenshots/screen2.png)
 
 ![screen3](./seawar/screenshots/screen3.png)
+
+## Memview
+
+Memory viewer for available memory range
+
+### Details
+
+**Created**: 2000
+
+**Language**: Pascal
+
+**Features**:
+- 320x240
+
+**Source code**: [memview](/memview/code)
+
+**Executable (DOS)**: [MEMVIEW1.EXE](/memview/release/MEMVIEW1.EXE)
+
+### Instructions
+
+**Installation**: [Run it via DosBox](https://www.dosbox.com/)
+
+**Controls**:
+
+- [Up] and [Down] To move one line up or down
+- [PageUp] and [PageDown] To move entire frame
+
+### Screenshots
+
+![screen1](./memview/screenshots/screen1.png)
 
 ## Quad
 
