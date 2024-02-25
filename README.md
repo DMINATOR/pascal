@@ -51,7 +51,7 @@ One of my first feature complete games created.
 - 640x480 screen resolution
 - save and loading
 - sound effects via PC speaker!
-- all the graphics made by yours truly.
+- all the graphics made by yours truly with [Paintman3](#paintman3)
 
 **Source code**: [ggame](/ggame/code)
 
